@@ -6,3 +6,5 @@ Usage: Copy this file into the same directory as the NES file the use
 `extractor.py <nesfile.nes> <textfile.txt>`
 
 Then you can use any text editor, I recommend Notepad++.
+
+If you want to insert again yo can use my inserter [here.](https://github.com/KodingBTW/exodus-nes-text-inserter)
